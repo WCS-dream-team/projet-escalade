@@ -15,7 +15,7 @@
   		<!-- 1st col of the row -->
    			<div class="col-sm-4 footer-section">
     			<strong>Tell us more about you and ask a question</strong>
-    			<p>first write your address</p>
+    			<p>first, write your address</p>
     				<form class="form-inline">
         		<div class="form-group">
             		<label 
@@ -28,28 +28,27 @@
                 		id="inputEmail"
                 		placeholder="address@example.com">
          		</div>
-         		<button type="submit" class="btn btn-default">Subscribe</button>
+         		<button type="submit" class="btn btn-default">Send</button>
      				</form>
  			</div>
  
 <!--links 2nd col-->
-			<div class="col-sm-5 footer-section">
-    			<ul class="social">
-                        <li> <a href="#"><i class="fa fa-facebook"></i> </a> </li>
-                        <li> <a href="#"><i class="fa fa-twitter"></i> </a> </li>
-                        <li> <a href="#"><i class="fa fa-google-plus"></i> </a> </li>
-                        <li> <a href="#"><i class="fa fa-pinterest"></i> </a> </li>
-                        <li> <a href="#"><i class="fa fa-youtube"></i> </a> </li>
-          </ul>
-    	</div>
 
+          <div class="col-sm-4 footer-section">
+                    <ul class="social-network social-circle">
+                        <li><a href="#" class="icoRss" title="Rss"><i class="fa fa-rss"></i></a></li>
+                        <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                    </ul>       
+        </div>
+    	
 <!--links 3rd col-->
-    	<div class="col-sm-3">
+    	<div class="col-sm-4 footer-section">
     			<address>
     			    <strong>Association des grimpeurs de bleau</strong><br>
-    			    222 rue de fontainebleau<br>
-        			Fontainebleau<br>
-       				016080876(phone &amp; text)<br>
+    			    222 rue de fontainebleau à Fontainebleau<br>
        				 <a href="#">Contact Us</a>
     			</address>
 			</div>
