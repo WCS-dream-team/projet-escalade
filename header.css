@@ -1,0 +1,43 @@
+body {
+
+	height:100vh;
+	width:100vw;
+	
+}
+
+
+.row1 {
+
+	height:450px;
+	width: 10vw;
+
+
+}
+
+
+
+.col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+
+	background-image: url("./img_header_climbing.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 450px;
+	width: 100%;
+	margin:0;
+	
+		
+}
+
+
+.titre {
+
+	font-family: Blippo, fantasy;
+	background-color: transparent;
+	margin:0;
+	letter-spacing: 3px;
+	font-size: 600%;
+	padding-top:260px;
+	
+
+
+}
