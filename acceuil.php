@@ -13,6 +13,7 @@
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <LINK rel="stylesheet" type="text/css" href="footer.css">
   <LINK rel="stylesheet" type="text/css" href="acceuil.css">
+  <LINK rel="stylesheet" type="text/css" href="section.css">
 
 	</head>
 
@@ -81,8 +82,9 @@
 
 
 		</div>
-
-
+		
+<!-- SECTION -->
+<?php include("section.php"); ?>
 
 <!-- FOOTER -->
 <?php include("footer.php"); ?>
