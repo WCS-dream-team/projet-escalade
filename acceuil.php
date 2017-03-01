@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 	<!-- TRAM du Head-->
 <?php include("tram_head.php"); ?>
 
