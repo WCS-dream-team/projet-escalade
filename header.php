@@ -8,10 +8,10 @@
 				<div class="header">
 
 					<h1 class="titre"><strong>ESCALADE<br>FONTAINEBLEAU</strong></h1>
-
+				</div>
 			</div>
 
-		<div/>
+		</div>
 
 	</div>
 
