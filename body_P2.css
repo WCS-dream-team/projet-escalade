@@ -1,0 +1,45 @@
+body {
+
+	height:100vh;
+	width:100vw;
+	margin:0;
+
+}
+
+.container-fluid {
+
+	height:100vh;
+	width:100vw;
+	margin:0;
+}
+
+.body_P2 {
+
+	background-image: url("http://localhost/projet-escalade/mapsite.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	padding:5px;
+	margin:0;
+
+}
+
+.rowsize {
+
+	width:100%;
+	height: 8.3%;
+	margin:0;
+	padding:0;
+	background: transparent;
+
+}
+
+.BO {
+
+	border: ;
+}
+
+
+
+

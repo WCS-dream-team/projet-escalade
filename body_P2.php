@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
@@ -17,7 +19,62 @@
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 
 </head>
+
+
   <body>
+
+    <div class="container-fluid">
+
+        <div class="row body_P2">
+
+          <div class="row rowsize"></div>
+          <div class="row rowsize"></div>
+
+              <div class="row rowsize">
+                                        <div class="col-xs-offset-X col-xs-X
+                                                    col-sm-offset-X col-sm-X
+                                                    col-md-offset-7 col-md-5 
+                                                    col-lg-offset-X col-md-X BO">
+
+
+                                        </div>
+              </div> 
+
+
+
+              <div class="row rowsize">
+                                        <div class="col-xs-offset-X col-xs-X
+                                                    col-sm-offset-X col-sm-X
+                                                    col-md-offset-X col-md-X
+                                                    col-lg-offset-X col-md-X">
+
+
+                                        </div> 
+              </div>
+
+          <div class="row rowsize"></div>
+          <div class="row rowsize"></div>
+
+              <div class="row rowsize">
+                                        <div class="col-xs-offset-X col-xs-X
+                                                    col-sm-offset-X col-sm-X
+                                                    col-md-offset-X col-md-X
+                                                    col-lg-offset-X col-md-X">
+
+
+                                        </div>
+              </div>
+
+          <div class="row rowsize"></div>
+          <div class="row rowsize"></div>
+          <div class="row rowsize"></div>
+          <div class="row rowsize"></div>
+          <div class="row rowsize"></div>
+
+        </div>      
+
+
+    </div>
     
       
 
