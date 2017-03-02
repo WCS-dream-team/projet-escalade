@@ -49,12 +49,12 @@
           <div class="col-sm-12">
               <nav class="navbar navbar-default navbar-footer">
                   <ul class="nav navbar-nav">
-                      <li><a href="#">Acceuil</a></li>
-                      <li><a href="#">Site numéro 1</a></li>
+                      <li><a href="acceuil.php">Acceuil</a></li>
+                      <li><a href="SNE.php">Site numéro 1</a></li>
                       <li><a href="#">site numéro 2</a></li>
-                      <li><a href="#">SAE</a></li>
+                      <li><a href="SAE.php">SAE</a></li>
                       <li><a href="#">Evenements</a></li>
-                      <li><a href="#">Contact Us</a></li>
+                      <li><a href="formulaire.php">Contact Us</a></li>
                   </ul>
               </nav>
           </div>
