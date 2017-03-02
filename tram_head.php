@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
   <!--lien css-->
   <LINK rel="stylesheet" type="text/css" href="header.css">
-  <LINK rel="stylesheet" type="text/css" href="acceuil_test.css">
+  <LINK rel="stylesheet" type="text/css" href="acceuil.css">
   <LINK rel="stylesheet" type="text/css" href="section_actu.css">
   <LINK rel="stylesheet" type="text/css" href="section.css">
   <LINK rel="stylesheet" type="text/css" href="footer.css">
