@@ -13,33 +13,98 @@ body {
 	margin:0;
 }
 
-.body_P2 {
+ 
+@media screen and (max-width: 320px) {
+	
+	.container-fluid {
 
-	background-image: url("http://localhost/projet-escalade/mapsite.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	height: 100%;
-	width: 100%;
-	padding:5px;
-	margin:0;
-
-}
-
-.rowsize {
-
-	width:100%;
-	height: 8.3%;
+	height:100vh;
+	width:100vw;
 	margin:0;
 	padding:0;
-	background: transparent;
+	}
 
+	.body_P2 {
+
+		background-image: url("mapsite.jpg");
+		background-repeat: no-repeat;
+		background-size: contain;
+		height:300px;
+
+				
+	}
+
+	.rowsize1 {
+
+		height: 100px;
+		margin:0;
+		padding:0;
+		
+	
+	}
+
+	.rowsize2 {
+
+		height: 100px;
+		margin:0;
+		padding:0;
+		
+	
+	}
+
+	.BO {
+
+		height:100px;
+		padding:0;
+
+	}
+
+	.paddingS1 {
+
+		padding: 70px 0px 5px 0px;
+
+	}
+
+	.paddingS2 {
+
+		padding: 25px 0px 50px 30px;
+	}
+
+	.borderrad {
+
+		border-radius: 50%;
+		
+	}
+
+	.glyph {
+
+		color:red;
+	}
+
+	.modal-dialog {
+
+		margin:0;
+		width:320px;
+	}
+
+	.modal-dialog2 {
+
+		margin:0;
+		width:320px;
+	}
+
+	.info {
+
+		font-size:1.15em;
+	}
+
+	.bold {
+
+		font-weight: bold;
+		font-size: 1.25em;
+	}
 }
 
-.BO {
-
-	border: ;
-}
-
-
+/*<span class="glyphicon glyphicon-map-marker"></span>*/
 
 
