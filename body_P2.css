@@ -3,6 +3,7 @@ body {
 	height:100vh;
 	width:100vw;
 	margin:0;
+	background-color:#D3CAC8;
 
 }
 
@@ -14,7 +15,7 @@ body {
 }
 
  
-@media screen and (max-width: 320px) {
+@media screen and (max-width:1199px) and (min-width:992px) {
 	
 	.container-fluid {
 
@@ -29,23 +30,15 @@ body {
 		background-image: url("mapsite.jpg");
 		background-repeat: no-repeat;
 		background-size: contain;
-		height:300px;
+		height:1019px;
+		margin: 0px 20px 0px 10px;
 
 				
 	}
 
 	.rowsize1 {
 
-		height: 100px;
-		margin:0;
-		padding:0;
-		
-	
-	}
-
-	.rowsize2 {
-
-		height: 100px;
+		height:400px;
 		margin:0;
 		padding:0;
 		
@@ -54,20 +47,19 @@ body {
 
 	.BO {
 
-		height:100px;
-		padding:0;
-
+		height:400px;
+		
 	}
 
 	.paddingS1 {
 
-		padding: 70px 0px 5px 0px;
+		padding: 260px 0px 80px 150px;
 
 	}
 
 	.paddingS2 {
 
-		padding: 25px 0px 50px 30px;
+		padding: 100px 0px 230px 140px;
 	}
 
 	.borderrad {
@@ -84,13 +76,7 @@ body {
 	.modal-dialog {
 
 		margin:0;
-		width:320px;
-	}
-
-	.modal-dialog2 {
-
-		margin:0;
-		width:320px;
+		width:450px;
 	}
 
 	.info {
@@ -103,8 +89,29 @@ body {
 		font-weight: bold;
 		font-size: 1.25em;
 	}
+
+	.meteo {
+
+		margin: auto;
+
+
+	}
 }
 
-/*<span class="glyphicon glyphicon-map-marker"></span>*/
+/*<span class="glyphicon glyphicon-map-marker glyph"></span>
+
+<h3 class="modal-title"><strong>Pignon de Pin</strong></h3>
+                </div>
+                  <div class="modal-body">
+                    <p class="info"><span class="bold">Meilleures Périodes:</span><br>Mars/Avril/Juin/Septembre<br><span class="bold">Orientation: </span>S-SO<br><span class="bold">Rocher: </span>calcaire<br><span class="bold">Nb de voies: </span>16<br><span class="bold">Hauteur: </span>jusqu'à 50m<br><span class="bold">Difficulté: </span>du 5c à 7c<br><span class="bold">Localisation: </span>Ici et là</p>
+                    <img src="abricotier_reeq.JPG" alt="voies" width="290px"/>
 
 
+
+                     <h3 class="modal-title"><strong>Pignon de Vélo</strong></h3>
+                  </div>
+                  <div class="modal-body">
+                    <p class="info"><span class="bold">Meilleures Périodes:</span><br>Avril/Mai/Juin/Septembre<br><span class="bold">Orientation: </span>N-NO<br><span class="bold">Rocher: </span>calcaire<br><span class="bold">Nb de voies: </span>42<br><span class="bold">Hauteur: </span>jusqu'à 75m<br><span class="bold">Difficulté: </span>du 5c à 7c<br><span class="bold">Localisation: </span>Ici et là</p>
+                    <img src="parfumerie2.jpg" alt="voies" width="290px"/>
+
+                    */
