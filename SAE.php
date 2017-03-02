@@ -38,16 +38,17 @@ $(document).ready(function(){
 	<div class="container">
    		<!-- Button HTML (to Trigger Modal) -->
     	<div class="row row_dis">
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal_droite1" data-title="Feedback">Horraires</button>
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal_droite1" data-title="Feedback"><h1>
+	HORAIRES</h1></button>
     	</div>
     <div class="row row_dis">
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal_droite2" data-title="Report Error">Acces a la salle</button>
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal_droite2" data-title="Report Error"><h1>Acces a la salle</h1></button>
     </div>
 	<div class="row row_dis">
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal_droite3" data-title="Contact Us">CONTACT</button>
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal_droite3" data-title="Contact Us"><h1>CONTACT</h1></button>
     </div>
     <div class="row row_dis">
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal_droite4" data-title="Contact Us">TARIFS</button>
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal_droite4" data-title="Contact Us"><h1>TARIFS</h1></button>
     </div>
     
     <!-- Modal HTML -->
@@ -56,7 +57,7 @@ $(document).ready(function(){
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                    <h4 class="modal-title">Horraires</h4>
+                    <h4 class="modal-title">HORAIRES</h4>
                 </div>
                 <div class="modal-body">
                    <h1>
