@@ -168,7 +168,7 @@ svg {
 .box2 
 {
 text-align: center;
-background: url('grimpeuse.jpg') no-repeat;
+background: url('../img/grimpeuse.jpg') no-repeat;
 background-position: center;
 height:350px;
 }
@@ -182,7 +182,7 @@ height:350px;
 .box3
 {
 text-align: center;
-background: url('Shop.png') no-repeat;
+background: url('../img/Shop.png') no-repeat;
 background-position: center;
 height:300px;
 }

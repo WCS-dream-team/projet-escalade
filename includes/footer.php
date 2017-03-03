@@ -49,7 +49,7 @@
           <div class="col-sm-12">
               <nav class="navbar navbar-default navbar-footer">
                   <ul class="nav navbar-nav">
-                      <li><a href="acceuil.php">Acceuil</a></li>
+                      <li><a href="index.php">Acceuil</a></li>
                       <li><a href="SNE.php">Site numéro 1</a></li>
                       <li><a href="#">site numéro 2</a></li>
                       <li><a href="SAE.php">SAE</a></li>
@@ -72,4 +72,9 @@
       </div>
   </div><!-- end container -->
 </footer>
-  
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+   <!-- javascript bootstrap -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script type="text/javascript" src="assets/js/main.js"></script>
+</body>
+</html>

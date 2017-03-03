@@ -14,6 +14,15 @@ body {
 	margin:0;
 }
 
+	.header {
+
+	background-image: url("../img/img_header_climbing.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 450px;
+	width: 100vw;
+	margin:0;
+	}
  
 @media screen and (max-width:1199px) and (min-width:992px) {
 	
@@ -24,15 +33,6 @@ body {
 	margin: 0px 0px 20px 0px;
 }
 
-	.header {
-
-	background-image: url("./img_header_climbing.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	height: 450px;
-	width: 100vw;
-	margin:0;
-	}
 
 	.titre {
 
@@ -56,7 +56,7 @@ body {
 
 	.body_P2 {
 
-		background-image: url("mapsite.jpg");
+		background-image: url("../img/mapsite.jpg");
 		background-repeat: no-repeat;
 		background-size: contain;
 		height:1019px;
