@@ -25,6 +25,7 @@
   <link rel="stylesheet" type="text/css" href="assets/css/footer.css">
   <link rel="stylesheet" type="text/css" href="assets/css/body_P2.css">
   <link rel="stylesheet" type="text/css" href="assets/css/SAE.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/formulaire.css">
 
 </head>
 <body>
